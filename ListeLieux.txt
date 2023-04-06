@@ -1,0 +1,48 @@
+11,Residence I,135,91
+12,Gymnase Collette Besson,224,85
+15,Residence F,109,127
+16,Residence E,164,127
+18,Residence H,244,126
+22,Terrain de football synthetique,373,139
+25,Terrain multisport,391,161
+26,Terrain de rugby,408,161
+30,Arret de tramway IUT Feyssine,683,165
+37,Terrains de tennis-1,209,140
+40,La Rotonde,234,187
+41,Le Theleme-Restaurant Le Grillon-L’olivier-KFET,258,186
+47,Centre des Humanites,225,212
+52,Terrains de tennis-2,478,221
+54,Gymnase B,752,220
+56,Batiment Gustave Ferrie Genie Electrique,104,238
+58,Batiment Claude Chappe,153,195
+59,Batiment Sadi Carnot,174,238
+63,Batiment Perriand,294,238
+65,Batiment Eugene Freyssinet,369,230
+66,Gymnase C,391,237
+68,Infirmerie,491,240
+69,Residence G-J,528,255
+71,Terrains de Beach Volley,629,238
+73,Residence B,743,285
+77,Batiment Jules Verne,177,263
+80,Batiment Joseph Jacquard,264,267
+88,Batiment Jean d’Alembert,647,272
+90,Batiment Pierre de Fermat,670,290
+91,Residence A,700,300
+92,Louis Neel,668,331
+93,Batiment Blaise Pascal,106,284
+94,Amphitheatre Laura Bassi,170,285
+97,Direction INSA Lyon,414,299
+99,Residence Cambridge,481,295
+104,Arret de tramway Croix-Luizet,681,360
+106,Arret de tramway Gaston Berger,109,350
+107,Amphitheatre Marc Seguin,276,336
+108,Bibliotheque Marie Curie,328,337
+109,Arret de tramway INSA Einstein,415,373
+116,Batiment Louis Pasteur,123,356
+117,Batiment Leonard de Vinci,123,356
+123,Restaurant INSA-Le Prevert,159,388
+125,Le Pied du Saule,159,421
+133,Residence C,103,491
+134,Batiment Marco Polo,123,490
+137,Residence D,180,489
+138,Restaurant Universitaire,301,472
